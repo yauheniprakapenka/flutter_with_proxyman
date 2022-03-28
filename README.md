@@ -31,3 +31,6 @@ https://pub.dev/packages/http
 <br><b>Result with emulator and simulator:</b>
 
 <img src="https://user-images.githubusercontent.com/47568606/103482185-6f50fb00-4df0-11eb-8d1a-db659eeb80c1.png" width="260"></a>   <img src="https://user-images.githubusercontent.com/47568606/103482249-dcfd2700-4df0-11eb-9c83-b73355b77f33.png" width="260"></a>
+
+Useful articles:
+- https://sarunw.com/posts/how-to-use-proxyman-with-flutter/
